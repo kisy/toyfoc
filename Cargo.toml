@@ -1,11 +1,11 @@
 [package]
 name = "toyfoc"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
 license = "MIT"
 categories = ["embedded-hal", "no-std"]
 keywords = ["BLDC", "foc", "motor", "embedded-hal", "no-std"]
-authors = ["chaim <me@chaim.work>"]
+authors = ["chaim wang<me@chaim.work>"]
 repository = "https://github.com/kisy/toyfoc"
 description = "A toy Field-Oriented Controller for BLDC motors"
 
