@@ -17,6 +17,10 @@
 
 ## 关联库
 
+#### toyfoc 的 rp2040 实现
+
+https://github.com/kisy/toyfoc-rp2040
+
 #### 基于 `MQTT` 的 `ESP32-C3` 控制程序 
 
 https://github.com/kisy/toyfocy-ctrl
